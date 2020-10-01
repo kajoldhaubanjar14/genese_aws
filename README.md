@@ -1,1 +1,0 @@
-# genese_aws
